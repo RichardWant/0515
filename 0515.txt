@@ -1,0 +1,1 @@
+https://gentle-shore-83052.herokuapp.com/admin/login/?next=/admin/
